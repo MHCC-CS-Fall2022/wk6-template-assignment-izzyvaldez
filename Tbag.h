@@ -1,5 +1,5 @@
-// FILE: bag3.h
-// CLASS PROVIDED: bag (part of the namespace main_savitch_5)
+// FILE: Tbag.h
+// CLASS PROVIDED: bag classes modified into template functions.
 //
 // TYPEDEFS for the bag class:
 //   bag::value_type

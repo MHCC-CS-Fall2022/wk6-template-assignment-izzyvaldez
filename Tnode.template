@@ -1,6 +1,6 @@
-// FILE: node1.cxx
+// FILE: Tnode.template
 // IMPLEMENTS: The functions of the node class and the
-// linked list toolkit (see node1.h for documentation).
+// linked list toolkit (see node1.h for documentation). Functions have been modified into template functions.
 // INVARIANT for the node class:
 //   The data of a node is stored in data_field, and the link in link_field.
 

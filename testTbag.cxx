@@ -1,8 +1,13 @@
-// FILE: bag3demo.cxx
-// Demonstration program for the 3rd version of the bag (bag3.h and bag3.cxx).
-// This is a the same as the demonstration program for bag1,
-// except that we no longer need to check whether the bag reaches its
-// capacity.
+/*
+ wk6_Template_Class_ivaldez.cxx
+ Summary:        Demonstrate the implementation of a template class.
+ Specifications: Program will use template headers to run the program, using functions from the
+                 bag class and node class to run template functions.
+ Test cases:     Positive integers entered through the get_ages() function and check_ages() function.
+ Author:         Isaias Valdez
+ Created:        November 8, 2022
+ Summary of Modifications:
+ */
 
 #include <iostream>     // Provides cout and cin
 #include <cstdlib>      // Provides EXIT_SUCCESS

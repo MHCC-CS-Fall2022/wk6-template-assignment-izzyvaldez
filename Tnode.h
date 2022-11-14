@@ -1,6 +1,6 @@
-// FILE: node1.h
+// FILE: Tnode.h
 // PROVIDES: A class for a node in a linked list, and list manipulation
-// functions, all within the namespace main_savitch_5
+// functions, using template headers to execute the functions.
 //
 // TYPEDEF for the node class:
 //     Each node of the list contains a piece of data and a pointer to the

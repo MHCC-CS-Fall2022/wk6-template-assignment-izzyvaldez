@@ -1,5 +1,5 @@
-// FILE: bag3.cxx
-// CLASS implemented: bag (see bag3.h for documentation)
+// FILE: Tbag.template
+// CLASS implemented: Tbag (see Tbag.h for documentation)
 // INVARIANT for the bag ADT:
 //   1. The items in the bag are stored on a linked list;
 //   2. The head pointer of the list is stored in the member variable head_ptr;
